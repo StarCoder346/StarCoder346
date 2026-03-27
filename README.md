@@ -47,28 +47,7 @@ const StarCoder346 = {
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarCoder346&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
----
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=StarCoder346&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-| 🚀 Project | 📝 Description | 🛠️ Tech |
-|---|---|---|
-| [**Git-Learning**](https://github.com/StarCoder346/Git-Learning) | 21 essential git commands — Branching, Remote, Undo & more | HTML |
-| [**deeplearning4j**](https://github.com/StarCoder346/deeplearning4j) | Suite of tools for deploying AI/ML on the JVM | Java |
-
----
-
-### 📈 Activity Graph
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=StarCoder346&theme=tokyo-night&hide_border=true&area=true" />
 
 ---
 
